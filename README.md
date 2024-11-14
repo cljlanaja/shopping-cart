@@ -16,18 +16,18 @@ This is a barebones shopping website made via React + Vite. You can scroll throu
 
 Libraries Used:
 
-- react
-- react-dom
-- react-router-dom
-- vite
-- tailwindcss
-- @vitejs/plugin-react
-- jest
-- eslint
-- autoprefixer
-- postcss
-- @testing-library/react
-- @testing-library/jest-dom
+- ├──react
+- ├──react-dom
+- ├──react-router-dom
+- ├──vite
+- ├──tailwindcss
+- ├──@vitejs/plugin-react
+- ├──jest
+- ├──eslint
+- ├──autoprefixer
+- ├──postcss
+- ├──@testing-library/react
+- ├──@testing-library/jest-dom
 
 
 
